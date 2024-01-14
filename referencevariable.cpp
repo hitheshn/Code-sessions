@@ -12,7 +12,8 @@ int main(){
    cout <<&b<< endl;
    cout <<a<< endl;
    cout <<b<< endl;
-   //cout <<*a<< endl;
-   //cout <<*b<< endl;
+   cout <<*a<< endl;
+   
+   cout <<*b<< endl;
    return 0;
 }
